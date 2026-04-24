@@ -7,6 +7,7 @@ ASCII Architecture Diagram:
        ├─ fetch_pathology_reports()   -> (Uses fhir_extractor)
        ├─ fetch_radiology_reports()   -> (Uses fhir_extractor)
        ├─ get_patient_clinical_profile() -> (Queries Patient/Condition)
+       ├─ calculate_clinical_stage() -> (Anti-Hallucination Guardrail, calculates AJCC TNM Stage)
        ├─ query_tumor_board_guidelines() -> (Uses guideline_engine)
        └─ save_tumor_board_note()     -> (POST DocumentReference to FHIR)
 ---------------------------------------------------------
