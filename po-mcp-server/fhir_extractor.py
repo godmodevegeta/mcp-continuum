@@ -33,15 +33,17 @@ def extract_clinical_text(resource: Dict) -> Optional[str]:
         
     return None
 
-async def fetch_and_parse_reports(client, fhir_url: str, patient_id: str, loinc_codes: str) -> str:
+async def fetch_and_parse_reports(client, fhir_url: str, fhir_token: str, patient_id: str, loinc_codes: str) -> str:
     """
     Executes the FHIR query and handles the 4-path data flow.
     loinc_codes: comma-separated string (e.g. '11526-1' for Path, '18748-4' for Rad)
     """
     query_url = f"{fhir_url}/DiagnosticReport?patient={patient_id}&category={loinc_codes}"
     
+    headers = {"Authorization": f"Bearer {fhir_token}", "Accept": "application/fhir+json"}
+    
     try:
-        response = await client.get(query_url, timeout=10.0)
+        response = await client.get(query_url, headers=headers, timeout=10.0)
         
         # Path 4: Upstream Error
         if response.status_code != 200:
