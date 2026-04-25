@@ -1,0 +1,469 @@
+{
+  "breast_cancer": {
+    "cancer_type": "breast_cancer",
+    "stages": {
+      "stage_0": {
+        "stage": "stage_0",
+        "sections": [
+          {
+            "title": "Required Pathology / Biomarkers",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Primary Surgical Options",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Systemic Therapy (Adjuvant/Neoadjuvant)",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Radiation Therapy Considerations",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Clinical Trial Options (Under Evaluation)",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          }
+        ],
+        "supportive_care": [
+          {
+            "topic": "Nausea",
+            "recommendation": "Many medicines are available to prevent and control nausea and vomiting from cancer treatments. Your doctor will help you find medicines and other ways of managing these side effects that work best for you.",
+            "source_url": "https://www.cancer.gov/about-cancer/treatment/side-effects/nausea"
+          }
+        ],
+        "surveillance_schedule": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutane...",
+        "recurrence_management": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutane..."
+      },
+      "stage_i": {
+        "stage": "stage_i",
+        "sections": [
+          {
+            "title": "Required Pathology / Biomarkers",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Primary Surgical Options",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Systemic Therapy (Adjuvant/Neoadjuvant)",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Radiation Therapy Considerations",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Clinical Trial Options (Under Evaluation)",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          }
+        ],
+        "supportive_care": [
+          {
+            "topic": "Nausea",
+            "recommendation": "Many medicines are available to prevent and control nausea and vomiting from cancer treatments. Your doctor will help you find medicines and other ways of managing these side effects that work best for you.",
+            "source_url": "https://www.cancer.gov/about-cancer/treatment/side-effects/nausea"
+          }
+        ],
+        "surveillance_schedule": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutane...",
+        "recurrence_management": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutane..."
+      },
+      "stage_ii": {
+        "stage": "stage_ii",
+        "sections": [
+          {
+            "title": "Required Pathology / Biomarkers",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Primary Surgical Options",
+            "content": "Breast Cancer Treatment (PDQ®)–Health Professional Version\nGeneral Information About Breast Cancer\nIncidence and Mortality\nEstimated new cases and deaths from breast cancer (women only) in the United States in 2025:[\n1\n]\nNew cases: 316,950.\nDeaths:  42,170.\nBreast cancer is the most common noncutaneous cancer in U.S. women, with an estimated   59,080 cases of female breast ductal carcinoma\nin situ\n(DCIS) and 316,950 cases of invasive disease  in 2025.[\n1\n] About 42,170 women diagnosed with breast cancer—fewer than one in eight—will die of the disease. By comparison, about  60,540 American women will die of lung cancer in 2025.[\n1\n] Men account for 1% of breast cancer cases and breast cancer deaths. For more information, see the\nSpecial Populations\nsection in Breast Cancer Screening.\nWidespread adoption of screening increases breast cancer incidence in a given population and changes the characteristics of cancers detected, with increased incidence of lower-risk cancers, premalignant lesions, and DCIS. For more information, see the\nDuctal carcinoma in situ (DCIS)\nsection  in Breast Cancer Screening.  Population studies from the United States [\n2\n] and the United Kingdom [\n3\n] demonstrate an increase in DCIS and invasive breast cancer incidence since the 1970s, attributable to the widespread adoption of both postmenopausal hormone therapy and screening mammography.   In the last decade, women have refrained from using postmenopausal hormones, and breast cancer incidence has declined, but not to the levels seen before the widespread use of screening mammography.[\n4\n]\nAnatomy\nEnlarge\nFigure 1.  Anatomy of the female breast. The nipple and areola are shown on the outside of the breast. The lymph nodes, lobes, lobules, ducts, and other parts of the inside of the breast are also shown.\nRisk Factors\nIncreasing age is the most important risk factor for most cancers. Other risk factors for breast cancer include:\nFamily health history.[\n5\n]\nMajor inheritance susceptibility.[\n6\n,\n7\n]\nGermline pathogenic variant of the\nBRCA1\nand\nBRCA2\ngenes and other breast cancer susceptibility genes.[\n8\n,\n9\n]\nAlcohol intake.\nBreast tissue density (mammographic).[\n10\n]\nEstrogen (endogenous).[\n11\n-\n13\n]\nMenstrual history (early menarche/late menopause).[\n14\n,\n15\n]\nNulliparity.\nOlder age at first birth.\nHormone therapy history.\nCombination estrogen plus progestin hormone replacement therapy.\nObesity (postmenopausal).[\n16\n]\nPersonal history of breast cancer.[\n17\n]\nPersonal history of benign proliferative breast disease.[\n18\n-\n20\n]\nRadiation exposure to breast/chest.[\n21\n]\nAge-specific risk estimates are available to help design\nscreening strategies for women with and without a family history of breast cancer. The most commonly used tools include the\nGail model\nand the\nIBIS/Tyrer-Cuzick model, version 8\n(which incorporates family history to a greater extent than the Gail model, as well as breast density).[\n22\n]\nOf all women with breast cancer, 5% to 10% may have a germline\npathogenic variant in the\nBRCA1\nand\nBRCA2\ngenes.[\n23\n]  Specific\nBRCA1\nand\nBRCA2\nvariants are more common in women of Jewish ancestry.[\n24\n]  In women with\nBRCA1\nand\nBRCA2\npathogenic variants, the estimated lifetime risk of developing breast cancer is\n40% to 85%.\nBRCA1\nand\nBRCA2\ncarriers with a history of breast cancer have increased risk of\ncontralateral disease that may be as high as 5% per year.[\n25\n]  Men with\nBRCA1\nand\nBRCA2\npathogenic variants also have increased breast cancer risk.[\n26\n]\nBRCA1\nand\nBRCA2\npathogenic variants also increase risk of ovarian cancer [\n26\n,\n27\n]  and other primary\ncancers.[\n26\n,\n27\n]  Once a\nBRCA1\nor\nBRCA2\nvariant has been identified, other family members can be referred for genetic counseling and testing.[\n28\n-\n31\n]\nFor more information, see\nGenetics of Breast and Gynecologic Cancers\n,\nBreast Cancer Prevention\n, and\nBreast Cancer Screening\n.\nProtective Factors\nThe following protective factors and interventions reduce the risk of female breast cancer:\nEstroge...",
+            "evidence": [
+              {
+                "level": "2A",
+                "source": "NCI PDQ https://www.cancer.gov/types/breast/hp/breast-treatment-pdq",
+                "last_updated": "2026-04-25"
+              }
+            ],
+            "trials_under_evaluation": [
+              {
+                "nct_id": "NCT06778863",
+                "title": "A Study of CLSP-1025 in Adult Patients With Solid Tumors That Harbor the p53 R175H Mutation",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06778863"
+              },
+              {
+                "nct_id": "NCT07154043",
+                "title": "Comparison of IPC Therapy as an Alternative or an Adjunct to MLD Within CDT for BCRL",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT07154043"
+              },
+              {
+                "nct_id": "NCT06265558",
+                "title": "Prevention of Postoperative Complications by Negative Pressure Therapy After Complex Breast Cancer Surgery",
+                "phase": null,
+                "status": "RECRUITING",
+                "url": "https://clinicaltrials.gov/study/NCT06265558"
+              }
+            ]
+          },
+          {
+            "title": "Systemic Therapy (Adjuvant/Neoadjuvant)",
+            "content": "*Content for 'Systemic Therapy (Adjuvant/Neoadjuvant)' unavailable. Refer to [NCI PDQ](https://www.cancer.gov/types/breast/hp/breast-treatment-pdq).*",
+            "evidence": [],
+            "trials_under_evaluation": []
+          },
+          {
+            "title": "Radiation Therapy Considerations",
+            "content": "*Content for 'Radiation Therapy Considerations' unavailable. Refer to [NCI PDQ](https://www.cancer.gov/types/breast/hp/breast-treatment-pdq).*",
+            "evidence": [],
+            "trials_under_evaluation": []
+          },
+          {
+            "title": "Clinical Trial Options (Under Evaluation)",
+            "content": "*Content for 'Clinical Trial Options (Under Evaluation)' unavailable. Refer to [NCI PDQ](https://www.cancer.gov/types/breast/hp/breast-treatment-pdq).*",
+            "evidence": [],
+            "trials_under_evaluation": []
+          }
+        ],
+        "supportive_care": [],
+        "surveillance_schedule": "Follow NCCN/ASCO guidelines.",
+        "recurrence_management": null
+      }
+    }
+  }
+}

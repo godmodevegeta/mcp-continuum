@@ -1,0 +1,784 @@
+2026-04-25 08:00:55,877 [INFO] Starting NCI Guidelines Generator (API v2 COMPLIANT)
+2026-04-25 08:00:55,877 [INFO] API Base: https://clinicaltrials.gov/api/v2
+2026-04-25 08:00:55,877 [INFO] Fetching: https://clinicaltrials.gov/api/v2/version
+2026-04-25 08:00:56,540 [INFO] API data timestamp: 2026-04-24T09:00:05
+2026-04-25 08:00:56,541 [INFO] Cancer types: ['breast_cancer', 'prostate_cancer', 'pancreatic_cancer', 'ovarian_cancer', 'melanoma', 'lymphoma', 'glioma', 'renal_cancer', 'bladder_cancer', 'colon_cancer', 'rectal_cancer']
+2026-04-25 08:00:56,541 [INFO] Stages per type: ['stage_0', 'stage_i', 'stage_ii', 'stage_iii', 'stage_iv', 'recurrent']
+2026-04-25 08:00:56,541 [INFO] Generating breast_cancer / stage_0
+2026-04-25 08:00:56,570 [INFO] Fetching: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:00:57,093 [ERROR] Request failed for https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:00:57,096 [INFO] Fetching: https://www.ncbi.nlm.nih.gov/books/NBK65950/#surgery
+2026-04-25 08:00:59,190 [ERROR] Request failed for https://www.ncbi.nlm.nih.gov/books/NBK65950/#surgery: Expecting value: line 1 column 1 (char 0)
+2026-04-25 08:00:59,193 [INFO] Fetching: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:00:59,818 [ERROR] Request failed for https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:00:59,821 [INFO] Fetching: https://www.ncbi.nlm.nih.gov/books/NBK65950/#chemotherapy
+2026-04-25 08:01:02,134 [ERROR] Request failed for https://www.ncbi.nlm.nih.gov/books/NBK65950/#chemotherapy: Expecting value: line 1 column 1 (char 0)
+2026-04-25 08:01:02,137 [INFO] Fetching: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:02,699 [ERROR] Request failed for https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:02,703 [INFO] Fetching: https://www.ncbi.nlm.nih.gov/books/NBK65950/#radiation
+2026-04-25 08:01:05,580 [ERROR] Request failed for https://www.ncbi.nlm.nih.gov/books/NBK65950/#radiation: Expecting value: line 1 column 1 (char 0)
+2026-04-25 08:01:05,583 [INFO] Fetching: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:06,163 [ERROR] Request failed for https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:06,198 [INFO] Fetching: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:06,778 [ERROR] Request failed for https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute: 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer+stage+0&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&format=json&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:01:06,831 [INFO] Fetching: https://www.cancer.gov/https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:08:44,450 [INFO] Starting NCI Guidelines Generator (PRODUCTION READY)
+2026-04-25 08:08:44,451 [INFO] API data timestamp: 2026-04-24T09:00:05
+2026-04-25 08:08:44,451 [INFO] Cancer types: ['breast_cancer', 'prostate_cancer', 'pancreatic_cancer', 'ovarian_cancer', 'melanoma', 'lymphoma', 'glioma', 'renal_cancer', 'bladder_cancer', 'colon_cancer', 'rectal_cancer']
+2026-04-25 08:08:44,451 [INFO] Stages: ['stage_0', 'stage_i', 'stage_ii', 'stage_iii', 'stage_iv', 'recurrent']
+2026-04-25 08:08:44,451 [INFO] Generating breast_cancer / stage_0
+2026-04-25 08:08:44,452 [ERROR] PDQ parsing failed: slice(None, 500, None)
+2026-04-25 08:08:44,452 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:45,152 [ERROR] JSON request failed: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute — 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:45,156 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65950/#surgery
+2026-04-25 08:08:47,649 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:48,214 [ERROR] JSON request failed: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute — 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:48,218 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65950/#chemotherapy
+2026-04-25 08:08:50,613 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:51,252 [ERROR] JSON request failed: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute — 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:51,255 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65950/#radiation
+2026-04-25 08:08:53,490 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:54,083 [ERROR] JSON request failed: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute — 400 Client Error: Bad Request for url: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:08:54,088 [ERROR] PDQ parsing failed: slice(None, 500, None)
+2026-04-25 08:08:54,088 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING,ACTIVE_NOT_RECRUITING,COMPLETED&pageSize=3&filter.sponsorCollaborators.sponsor=National+Cancer+Institute
+2026-04-25 08:14:10,392 [INFO] Starting NCI Guidelines Generator (PRODUCTION READY — DEBUGGED)
+2026-04-25 08:14:10,392 [INFO] Testing API connectivity...
+2026-04-25 08:14:10,393 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/version
+2026-04-25 08:14:11,096 [INFO] ✓ ClinicalTrials.gov API OK (data: 2026-04-24T09:00:05)
+2026-04-25 08:14:11,097 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65950/
+2026-04-25 08:14:13,049 [WARNING] ⚠ NCBI Bookshelf content not as expected (may still work)
+2026-04-25 08:14:13,050 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:16,723 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:16,723 [WARNING] ⚠ cancer.gov safety content unreachable (may still work)
+2026-04-25 08:14:16,731 [INFO] Cancer types: ['breast_cancer', 'prostate_cancer', 'pancreatic_cancer', 'ovarian_cancer', 'melanoma', 'lymphoma', 'glioma', 'renal_cancer', 'bladder_cancer', 'colon_cancer', 'rectal_cancer']
+2026-04-25 08:14:16,731 [INFO] Stages: ['stage_0', 'stage_i', 'stage_ii', 'stage_iii', 'stage_iv', 'recurrent']
+2026-04-25 08:14:16,731 [INFO] Generating breast_cancer / stage_0
+2026-04-25 08:14:16,734 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:16,740 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&filter.overallStatus=RECRUITING&pageSize=3
+2026-04-25 08:14:17,701 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:17,703 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:17,704 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:18,323 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:18,327 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:19,488 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:19,494 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:19,498 [ERROR] PDQ parsing failed for NBK65950#recurrent: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:19,500 [INFO] Generating breast_cancer / stage_i
+2026-04-25 08:14:19,501 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:19,578 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:19,579 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:19,580 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:20,236 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:20,240 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:21,722 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:21,726 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:21,730 [ERROR] PDQ parsing failed for NBK65950#recurrent: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:21,732 [INFO] Generating breast_cancer / stage_ii
+2026-04-25 08:14:21,733 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:21,811 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:21,813 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:21,813 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:22,401 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:22,406 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:22,966 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:22,970 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:22,973 [ERROR] PDQ parsing failed for NBK65950#recurrent: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:22,974 [INFO] Generating breast_cancer / stage_iii
+2026-04-25 08:14:22,974 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:23,050 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:23,051 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:23,051 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:23,648 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:23,652 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:24,224 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:24,228 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:24,230 [ERROR] PDQ parsing failed for NBK65950#recurrent: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:24,231 [INFO] Generating breast_cancer / stage_iv
+2026-04-25 08:14:24,232 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:24,304 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:24,305 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:24,306 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:24,727 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:24,729 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:25,188 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:25,191 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:25,193 [ERROR] PDQ parsing failed for NBK65950#recurrent: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:25,194 [INFO] Generating breast_cancer / recurrent
+2026-04-25 08:14:25,195 [ERROR] PDQ parsing failed for NBK65950#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:25,269 [ERROR] PDQ parsing failed for NBK65950#None: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:25,270 [ERROR] Safety content parsing failed for https://www.cancer.gov/about-cancer/treatment/side-effects/nausea/nausea-hp-pdq#section_89: slice(None, 500, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 353, in fetch_safety_content
+    soup = BeautifulSoup(html, "lxml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 247, in prepare_markup
+    DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml(markup, stacklevel=3)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/__init__.py", line 739, in warn_if_markup_looks_like_xml
+    markup = markup[:500]
+             ~~~~~~^^^^^^
+KeyError: slice(None, 500, None)
+2026-04-25 08:14:25,271 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:25,929 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart/heart-hp-pdq
+2026-04-25 08:14:25,934 [INFO] Fetching HTML: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:26,881 [ERROR] HTML request failed: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq — 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy/neuropathy-hp-pdq
+2026-04-25 08:14:26,886 [ERROR] PDQ parsing failed for NBK65950#surveillance: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:26,890 [INFO] ✓ Completed breast_cancer
+2026-04-25 08:14:26,890 [INFO] Generating prostate_cancer / stage_0
+2026-04-25 08:14:26,893 [ERROR] PDQ parsing failed for NBK65958#biomarkers: slice(None, 3, None)
+Traceback (most recent call last):
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/generate_nci_guidelines.py", line 301, in fetch_pdq_section
+    soup = BeautifulSoup(html, "lxml-xml")
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/__init__.py", line 470, in __init__
+    ) in self.builder.prepare_markup(
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        markup, from_encoding, exclude_encodings=exclude_encodings
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ):
+    ^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/builder/_lxml.py", line 284, in prepare_markup
+    detector = EncodingDetector(
+        markup,
+    ...<3 lines>...
+        exclude_encodings=exclude_encodings,
+    )
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 565, in __init__
+    self.markup, self.sniffed_encoding = self.strip_byte_order_mark(markup)
+                                         ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "/Users/shubhamkumar/Developer/mcp-continuum/po-mcp-server/.venv/lib/python3.13/site-packages/bs4/dammit.py", line 672, in strip_byte_order_mark
+    elif data[:3] == b"\xef\xbb\xbf":
+         ~~~~^^^^
+KeyError: slice(None, 3, None)
+2026-04-25 08:14:26,895 [INFO] Fetching JSON: https://clinicaltrials.gov/api/v2/studies?query.cond=prostate+cancer&filter.overallStatus=RECRUITING&pageSize=3
+2026-04-25 08:14:27,607 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65958/#surgery
+2026-04-25 08:14:30,463 [INFO] Fetching HTML: https://www.ncbi.nlm.nih.gov/books/NBK65958/#chemotherapy
+2026-04-25 08:16:55,128 [INFO] Starting NCI Guidelines Generator (MINIMAL WORKING VERSION)
+2026-04-25 08:16:55,754 [INFO] ✓ ClinicalTrials.gov API OK (2026-04-24T09:00:05)
+2026-04-25 08:16:55,754 [INFO] Generating breast_cancer / stage_0
+2026-04-25 08:17:08,412 [WARNING] Attempt 1 failed for https://www.cancer.gov/about-cancer/treatment/side-effects/heart, retrying...
+2026-04-25 08:17:09,221 [WARNING] Attempt 2 failed for https://www.cancer.gov/about-cancer/treatment/side-effects/heart, retrying...
+2026-04-25 08:17:10,563 [ERROR] Failed to fetch https://www.cancer.gov/about-cancer/treatment/side-effects/heart after 3 attempts: 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/heart
+2026-04-25 08:17:12,161 [WARNING] Attempt 1 failed for https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy, retrying...
+2026-04-25 08:17:12,910 [WARNING] Attempt 2 failed for https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy, retrying...
+2026-04-25 08:17:14,174 [ERROR] Failed to fetch https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy after 3 attempts: 404 Client Error: Not Found for url: https://www.cancer.gov/about-cancer/treatment/side-effects/neuropathy
+2026-04-25 08:17:15,518 [INFO] Generating breast_cancer / stage_i
